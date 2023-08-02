@@ -1,0 +1,4 @@
+feedback: len = 10253
+entering standalone mode
+reading input from stdin
+harfbuzz-cnt: ./hb-ot-layout-gsubgpos-private.hh:1003: bool OT::apply_lookup(OT::hb_apply_context_t *, unsigned int, unsigned int *, unsigned int, const OT::LookupRecord *, unsigned int): Assertion `end == match_positions[idx]' failed.

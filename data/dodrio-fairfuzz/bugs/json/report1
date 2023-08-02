@@ -1,0 +1,4 @@
+feedback: len = 1638
+entering standalone mode
+reading input from stdin
+json-cnt: BUILD/test/src/fuzzer-parse_json.cpp:50: int LLVMFuzzerTestOneInput(const uint8_t *, size_t): Assertion `s1 == s2' failed.
